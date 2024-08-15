@@ -39,7 +39,7 @@ export function Sales() {
             <AvatarFallback>LB</AvatarFallback>
           </Avatar>
           <div>
-            <p className="text-sm sm:text-base font-semibold">Sean O'Connor</p>
+            <p className="text-sm sm:text-base font-semibold">Sean Connor</p>
             <span className="text-[12px] sm:text-sm text-gray-400">sean.oconnor@example.com</span>
           </div>
         </article>
@@ -50,7 +50,7 @@ export function Sales() {
             <AvatarFallback>LB</AvatarFallback>
           </Avatar>
           <div>
-            <p className="text-sm sm:text-base font-semibold">Liam O'Reilly</p>
+            <p className="text-sm sm:text-base font-semibold">Liam Reilly</p>
             <span className="text-[12px] sm:text-sm text-gray-400">liam.oreilly@example.com</span>
           </div>
         </article>

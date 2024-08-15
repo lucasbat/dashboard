@@ -1,7 +1,11 @@
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" width="200" alt="Next Logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="200" alt="Tailwindcss Logo" />          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="150" alt="ReactJS Logo" />                    
+Link:
+[dashboard-git-main-lucasbats-projects.vercel.app](dashboard-git-main-lucasbats-projects.vercel.app
+)
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" width="100" alt="Next Logo"  />&nbsp &nbsp &nbsp
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="100" alt="Tailwindcss Logo" /> &nbsp &nbsp &nbsp
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="80" alt="ReactJS Logo" /> 
+</div>
 
 ## Getting Started
 

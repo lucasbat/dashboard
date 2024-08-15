@@ -1,4 +1,4 @@
-import { CircleDollarSign } from "lucide-react";
+import { User } from "lucide-react";
 import {
   Card,
   CardContent,
@@ -16,7 +16,7 @@ export function Sales() {
           <CardTitle className="text-lg sm:text-xl text-gray-800 select-none">
             Últimos Clientes
           </CardTitle>
-          <CircleDollarSign className="w-4 h-4 ml-auto" />
+          <User className="w-4 h-4 ml-auto" />
         </div>
         <CardDescription>Novos clintes nas últimas 24 horas</CardDescription>
       </CardHeader>
